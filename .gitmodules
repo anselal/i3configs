@@ -1,3 +1,6 @@
 [submodule "andreatta/config"]
 	path = andreatta/config
 	url = https://github.com/andreatta/config
+[submodule "bookercodes/setupi3"]
+	path = bookercodes/setupi3
+	url = https://github.com/bookercodes/setupi3
