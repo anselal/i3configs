@@ -1,0 +1,3 @@
+[submodule "andreatta/config"]
+	path = andreatta/config
+	url = https://github.com/andreatta/config
