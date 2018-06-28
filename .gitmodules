@@ -4,3 +4,6 @@
 [submodule "bookercodes/setupi3"]
 	path = bookercodes/setupi3
 	url = https://github.com/bookercodes/setupi3
+[submodule "erikdubois/Archi3"]
+	path = erikdubois/Archi3
+	url = https://github.com/erikdubois/Archi3
